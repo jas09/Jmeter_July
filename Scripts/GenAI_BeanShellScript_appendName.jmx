@@ -40,7 +40,7 @@
 log.info(vars.get(&quot;country&quot;));//console output
 
 log.info(ctx.getThreadNum() + &quot;is the thread number&quot;);
-prefix = ctx.getThreadNum() + 30;
+prefix = ctx.getThreadNum() + 50;
 
 String country = vars.get(&quot;country&quot;);// to get value of variables
 
